@@ -1,0 +1,19 @@
+A1. Injection
+
+A2. Broken Authentication
+
+A3. Sensitive Data Exposure
+
+A4. XML External Entities (XEE)
+
+A5. Broken Access Control
+
+A6. Security Misconfiguration
+
+A7. Cross-Site Scripting
+
+A8. Insecure Deserialization
+
+A9. Using components with Known vulnerabilities
+
+A10.Insufficient Logging & Monitoring
